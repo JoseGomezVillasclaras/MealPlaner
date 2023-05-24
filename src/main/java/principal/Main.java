@@ -1,0 +1,14 @@
+package principal;
+
+import java.sql.Connection;
+import interfaces.Ventana;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Ventana v=new Ventana();
+		
+		
+	}
+
+}
